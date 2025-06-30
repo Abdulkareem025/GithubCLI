@@ -1,0 +1,31 @@
+{
+  "name": "githubcli",
+  "version": "1.0.0",
+  "description": "This is my Frist Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulkareem025/GithubCLI.git"
+  },
+  "keywords": [
+    "Github",
+    "js",
+    "node"
+  ],
+  "author": "Abdul Kareem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdulkareem025/GithubCLI/issues"
+  },
+  "homepage": "https://github.com/Abdulkareem025/GithubCLI#readme",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
